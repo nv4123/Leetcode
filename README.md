@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/nv4123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/nv4123/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nv4123/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/nv4123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nv4123/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nv4123/Leetcode/tree/master/1406-stone-game-iii) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/nv4123/Leetcode/tree/master/1406-stone-game-iii) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
