@@ -11,7 +11,7 @@ public:
         return digits;
     }
     int smallestNumber(int n, int t) {
-        while (true) {
+        while (n<=100) {
             vector<int> digits = getdigits(n);
 
             int product = 1;
@@ -26,5 +26,6 @@ public:
 
             n++;
         }
+        return 1;
     }
 };
