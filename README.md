@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nv4123/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/nv4123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/nv4123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/nv4123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/nv4123/Leetcode/tree/master/3731-find-missing-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/nv4123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nv4123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nv4123/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -91,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nv4123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nv4123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nv4123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
