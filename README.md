@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nv4123/Leetcode/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/nv4123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nv4123/Leetcode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/nv4123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nv4123/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/nv4123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/nv4123/Leetcode/tree/master/3731-find-missing-elements) |
