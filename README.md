@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nv4123/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/nv4123/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/nv4123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/nv4123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nv4123/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/nv4123/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/nv4123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nv4123/Leetcode/tree/master/0877-stone-game) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nv4123/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/nv4123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nv4123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
