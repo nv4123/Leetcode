@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nv4123/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nv4123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nv4123/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/nv4123/Leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/nv4123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nv4123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nv4123/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
